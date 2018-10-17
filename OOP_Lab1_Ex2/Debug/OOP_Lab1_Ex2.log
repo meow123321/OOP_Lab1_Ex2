@@ -1,0 +1,7 @@
+﻿  Main.c
+c:\users\dumitru cristina\desktop\github\oop_lab1_ex2\oop_lab1_ex2\main.c(15): warning C4013: '_getch' undefined; assuming extern returning int
+  Source.c
+c:\users\dumitru cristina\desktop\github\oop_lab1_ex2\oop_lab1_ex2\source.c(21): warning C4474: 'scanf_s' : too many arguments passed for format string
+  c:\users\dumitru cristina\desktop\github\oop_lab1_ex2\oop_lab1_ex2\source.c(21): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Generating Code...
+  OOP_Lab1_Ex2.vcxproj -> C:\Users\Dumitru Cristina\Desktop\GitHub\OOP_Lab1_Ex2\Debug\OOP_Lab1_Ex2.exe
